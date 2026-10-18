@@ -1,16 +1,38 @@
-## Hi there 👋
+¡Hola! 👋 Mi nombre es Darien Urizar y soy egresado de Ingeniería en Informática Me interesa aprender nuevas tecnologías, desarrollar proyectos digitales y continuar creciendo profesionalmente.
 
-<!--
-**darien02/darien02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 ¿De dónde soy?
 
-Here are some ideas to get you started:
+Soy de Coquimbo, Chile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 ¿A qué me dedico?
+
+Me encuentro desarrollando proyectos que me permiten aplicar mis conocimientos y fortalecer mis habilidades técnicas.
+
+🎓 ¿Cuál es mi formación?
+
+Mi formación corresponde a Ingeniería en Informática 
+
+🚀 ¿Cuáles son mis experiencias previas?
+
+He desarrollado proyectos académicos que me han permitido poner en práctica mis conocimientos, resolver problemas y mejorar mis habilidades.
+
+Actualmente busco continuar aprendiendo, participar en nuevos proyectos y adquirir experiencia profesional.
+
+📫 ¿Cómo pueden contactarme?
+GitHub: https://github.com/darien02/darien02
+Correo electrónico:
+LinkedIn: 
+🛠️ Tecnologías y herramientas
+Python
+Django
+AWS
+Docker
+
+📂 Mis proyectos
+
+Puedes revisar mis proyectos y conocer los trabajos que he desarrollado en los siguientes repositorios:
+
+ecommerce Inmuebles
+
+
+Gracias por visitar mi perfil. Estoy interesado/a en seguir aprendiendo y desarrollando nuevas soluciones digitales.
